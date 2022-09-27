@@ -1,26 +1,21 @@
-## <div align="center">Hi there, my name is Erick Cintra, aspiring software engineer!</div>
+<div style="max-width: 80%; margin: 0 auto">
 
- <div align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </div>
- 
-</br>
+  <span style="positions: relative;font-size: 1.5rem">
+    Hii
+    <img style="position: absolute; top: 14px" height="25" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png"  />
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp — My name is Erick I'm a FullStack developer&nbsp
+    <img style="position: absolute; top: 50px" height="25" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png"  />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp located in Praia Grande, SP.
+  </span>
 
-<div align="center">
-  <a href="https://github.com/erickctra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erickctra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickctra&layout=compact&langs_count=7&theme=dark"/>
+
+  ###
+
+  <p>Currently focused on Node, React and Typescript.<br>Developer with professional experience in Flutter, Firebase and React.</p>
+
+  ###
+  [Linkedin](https://www.linkedin.com/in/erickcintra)
+  ###
+  [My Resume (pdf 109kb)](https://duckduckgo.com)
+
 </div>
-  
-</br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-</div>
-
-<p align="center">
-  📌 Living in <b>Praia Grande</b>, <b>São Paulo</b>, <b>Brazil</b> &nbsp;</b>
-</p>
