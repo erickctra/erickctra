@@ -1,4 +1,3 @@
-<div align="center" style="max-width: 80%; margin: 0 auto">
 
   <span style="positions: relative;font-size: 1.5rem">
     Hii
@@ -17,5 +16,3 @@
   [Linkedin](https://www.linkedin.com/in/erickcintra)
   ###
   [My Resume (pdf 109kb)](https://duckduckgo.com)
-
-</div>
