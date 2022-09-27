@@ -2,9 +2,9 @@
   <span style="positions: relative;font-size: 1.5rem">
     Hii
     <img style="position: absolute; top: 17px; margin-top: 5px;" height="25" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png"  />
-      &nbsp;&nbsp;&nbsp — My name is Erick I'm a FullStack developer&nbsp
+      — My name is Erick I'm a FullStack developer&nbsp
     <img style="position: absolute; top: 53px" height="25" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png"  />
-    &nbsp;&nbsp;&nbsp located in Praia Grande, SP.
+     located in Praia Grande, SP.
   </span>
 
 
