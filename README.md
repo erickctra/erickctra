@@ -11,5 +11,4 @@
 
   ###
   [Linkedin](https://www.linkedin.com/in/erickcintra)
-  ###
   [My Resume (pdf 109kb)](https://duckduckgo.com)
