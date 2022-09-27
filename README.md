@@ -1,4 +1,4 @@
-<div style="max-width: 80%; margin: 0 auto">
+<div align="center" style="max-width: 80%; margin: 0 auto">
 
   <span style="positions: relative;font-size: 1.5rem">
     Hii
