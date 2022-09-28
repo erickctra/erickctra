@@ -1,13 +1,10 @@
 
-  <h2 style="positions: relative;font-size: 1.5rem">
-    Hii
-    <img style="position: absolute; top: 17px" height="25" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png"  />
-      &nbsp — My name is Erick I'm a FullStack developer&nbsp
-    <img style="position: absolute; top: 53px" height="25" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png"  />
-    &nbsp located in Praia Grande, SP.
-  </h2>
+  <br clear="both">
 
-  <p>Currently focused on Node, React and Typescript.<br>Developer with professional experience in Flutter, Firebase and React.</p>
+  <div align="left">
+    <img height="415" src="https://i.imgur.com/lUBSwZj.png"  />
+  </div>
+
 
   ###
   [Linkedin](https://www.linkedin.com/in/erickcintra)
