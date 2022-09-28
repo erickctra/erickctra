@@ -2,7 +2,7 @@
   <br clear="both">
 
   <div align="left">
-    <img src="https://i.imgur.com/lUBSwZj.png"  />
+    <img src="https://i.imgur.com/GJlDhZQ.png"  />
   </div>
 
 
